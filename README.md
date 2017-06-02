@@ -1,10 +1,10 @@
-#Warmup - Basic CSS - Mockup for NPR The Salt
+# CSS - Basic Layout - NPR The Salt
 
-###The Mockup
+### The Mockup
 ![mockup](./mockups/npr-basic-css-mockup.png)
 
 
-###Designer Specs
+### Designer Specs
 ```
 font + color for 'the salt' nav-bar font:
 'GillSans', #8a8a8a , #ef8e33 
