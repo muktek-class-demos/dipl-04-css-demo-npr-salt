@@ -5,11 +5,11 @@
   
   ```
   cd ~/muktek/warmups
-  
   git clone https://github.com/muktek/activity--css-basic-npr-salt.git
+  cd activity--css-basic-npr-salt
   ```
   
-2. Create the mockup below from html + css.  
+2. Inside the `style.css` file, apply the appropriate styles to the elements in `index.html` file so that you achieve a result similar to the design in the mockup below.  
 
 
 ### The Mockup
@@ -23,10 +23,10 @@ font + color for 'the salt' nav-bar font:
 (note: font-weight for 'salt' is 600)
 
 font for the header content:
-'GillSans'
+'GillSans', sans-serif
 
 font for the article-content
-'Palatino'
+'Palatino', serif
 
 background color for the 'the salt' navbar, the 'Correction' area, and button at bottom:
 #dddddd;
