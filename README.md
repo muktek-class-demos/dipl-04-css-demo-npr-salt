@@ -1,5 +1,17 @@
 # CSS - Basic Layout - NPR The Salt
 
+### Setup
+1. Clone the repository into your warmups
+  
+  ```
+  cd ~/muktek/warmups
+  
+  git clone https://github.com/muktek/activity--css-basic-npr-salt.git
+  ```
+  
+2. Create the mockup below from html + css.  
+
+
 ### The Mockup
 ![mockup](./mockups/npr-basic-css-mockup.png)
 
@@ -28,3 +40,12 @@ Contributor 'Julia Botero' border color:
 dark gray font color (in 'Correction' and button at bottom):
 #636363
 ```
+
+### Text Copy
+
+```
+Thousand Island dressing - you know it as the mix of ketchup, mayo and a few other things that tops a reuben or many a burger. In other words, it's pedestrian fare.
+
+But did you know it's origins trace back to the highest ranks of American society?
+```
+
